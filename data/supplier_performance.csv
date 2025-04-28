@@ -1,0 +1,51 @@
+supplier_id,region,contract_type,avg_on_time_rate,avg_delay_days,order_accuracy_pct,complaint_count,is_certified,has_recent_disruption,is_reliable
+SUP001,Africa,Long-term,0.89,1.3,100,2,False,True,0
+SUP002,South America,Short-term,0.82,1.2,100,2,True,True,0
+SUP003,Asia,Long-term,0.68,0.6,100,2,False,True,0
+SUP004,South America,Short-term,1.0,0.4,89,1,True,True,0
+SUP005,Europe,Long-term,0.92,0.1,100,5,False,True,0
+SUP006,South America,Short-term,0.87,2.8,94,4,True,True,0
+SUP007,Africa,Long-term,0.82,1.0,95,7,True,True,0
+SUP008,Asia,Short-term,0.89,1.3,94,2,True,True,0
+SUP009,Europe,Short-term,0.8,0.0,98,2,False,False,0
+SUP010,Europe,Short-term,0.78,3.3,95,1,True,True,0
+SUP011,South America,Long-term,0.81,3.9,93,3,True,False,0
+SUP012,South America,Short-term,0.77,4.4,94,3,True,False,0
+SUP013,Asia,Long-term,0.66,5.1,100,1,False,True,0
+SUP014,Africa,Long-term,0.81,3.7,93,1,True,False,1
+SUP015,North America,Long-term,1.0,2.7,98,5,False,False,0
+SUP016,Europe,Long-term,0.93,0.5,91,2,False,True,0
+SUP017,Asia,Long-term,0.98,1.6,94,1,True,False,1
+SUP018,South America,Short-term,0.84,1.1,97,2,False,False,0
+SUP019,South America,Short-term,0.93,2.3,86,3,False,True,0
+SUP020,Europe,Short-term,0.91,0.3,100,2,True,True,0
+SUP021,South America,Long-term,0.64,3.4,94,3,False,False,0
+SUP022,South America,Short-term,0.95,2.0,100,1,False,False,1
+SUP023,Asia,Long-term,0.93,3.6,86,1,True,True,0
+SUP024,North America,Long-term,0.68,7.4,87,1,True,False,0
+SUP025,North America,Short-term,0.77,1.2,100,4,False,False,0
+SUP026,North America,Short-term,0.73,3.5,100,2,True,True,0
+SUP027,North America,Long-term,0.9,4.7,89,0,True,True,0
+SUP028,Asia,Long-term,0.77,0.2,88,3,True,True,0
+SUP029,Africa,Long-term,0.88,3.0,100,1,False,False,1
+SUP030,South America,Short-term,0.85,0.7,97,0,True,True,1
+SUP031,South America,Long-term,0.93,3.6,96,1,True,True,0
+SUP032,Africa,Short-term,0.82,1.5,96,5,False,True,0
+SUP033,Europe,Long-term,0.64,1.9,90,1,False,True,0
+SUP034,Asia,Long-term,0.96,1.3,87,0,False,True,0
+SUP035,South America,Short-term,0.9,1.2,88,5,False,False,0
+SUP036,North America,Long-term,0.79,2.0,93,2,False,False,0
+SUP037,South America,Long-term,0.91,2.3,90,4,True,True,0
+SUP038,South America,Short-term,0.75,1.3,100,1,False,False,1
+SUP039,Europe,Short-term,0.79,3.0,93,2,False,False,0
+SUP040,Africa,Long-term,0.81,0.8,93,3,True,False,0
+SUP041,Africa,Short-term,0.89,3.4,94,3,False,False,0
+SUP042,Africa,Long-term,0.86,5.9,87,1,False,False,0
+SUP043,North America,Long-term,0.73,0.7,95,0,True,True,0
+SUP044,South America,Long-term,0.96,2.1,91,0,False,False,1
+SUP045,South America,Long-term,0.75,0.1,94,4,False,False,0
+SUP046,North America,Long-term,0.9,1.7,99,5,False,False,0
+SUP047,Europe,Long-term,0.76,1.9,99,2,False,False,0
+SUP048,Africa,Short-term,0.82,3.2,91,5,True,True,0
+SUP049,North America,Long-term,0.79,0.0,88,3,False,True,0
+SUP050,South America,Short-term,0.93,4.2,95,2,False,False,0
